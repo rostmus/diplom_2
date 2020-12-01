@@ -1,13 +1,13 @@
  @font-face {
     font-family: OpenSans;
-    src: url("/fonts/OpenSans-Regular.woff");
+    src: url("../fonts/OpenSans-Regular.woff");
     font-weight:400;
     font-style:normal;
   }
   
   @font-face {
     font-family: OpenSans;
-    src: url("fonts/OpenSans-Bold.woff");
+    src: url("../fonts/OpenSans-Bold.woff");
     font-weight:700;
     font-style:normal;
   }
@@ -84,7 +84,7 @@ textarea {
   }
 
   header {
-    background-image: url("/images/banner-bg.jpg");
+    background-image: url("../images/banner-bg.jpg");
     padding-bottom:145px;
     background-position:center center;
     background-repeat: no-repeat;
@@ -214,19 +214,19 @@ margin-left:35px;
 }
 
 .item_1 {
-    background-image: url("/images/trend1.jpg");
+    background-image: url("../images/trend1.jpg");
 }
 
 .item_2 {
-    background-image: url("/images/trend2.jpg");
+    background-image: url("../images/trend2.jpg");
 }
 
 .item_3 {
-    background-image: url("/images/trend3.jpg");
+    background-image: url("../images/trend3.jpg");
 }
 
 .item_4 {
-    background-image: url("/images/trend4.jpg");
+    background-image: url("../images/trend4.jpg");
 }
 
 
@@ -455,7 +455,7 @@ margin-left:35px;
     height: 47px;
     width: 48px;
     background-color: #b59f5b;
-    background-image: url("/svg/search.svg");
+    background-image: url("../svg/search.svg");
     background-size: 18px 18px;
     background-repeat: no-repeat;
     background-position: right 15px top 15px; 
@@ -602,7 +602,7 @@ margin-left:35px;
   
   .twitter {
     content:"";
-    background-image: url("/svg/004-twitter.svg");
+    background-image: url("../svg/004-twitter.svg");
     height:20px;
     background-size:contain;
     background-repeat:no-repeat;
@@ -612,7 +612,7 @@ margin-left:35px;
   
   .pinterest {
     content:"";
-  background-image: url("/svg/001-pinterest.svg");
+  background-image: url("../svg/001-pinterest.svg");
     height:20px;
     background-size:contain;
     background-repeat:no-repeat;
@@ -623,7 +623,7 @@ margin-left:35px;
   
   .facebook {
     content:"";
-  background-image: url("/svg/002-facebook-logo.svg");
+  background-image: url("../svg/002-facebook-logo.svg");
     height:20px;
     background-size:contain;
     background-repeat:no-repeat;
@@ -634,7 +634,7 @@ margin-left:35px;
   
   .instagram {
     content:"";
-  background-image: url("/svg/005-instagram.svg");
+  background-image: url("../svg/005-instagram.svg");
     height:20px;
     background-size:contain;
     background-repeat:no-repeat;
@@ -645,7 +645,7 @@ margin-left:35px;
   
   .tumblr {
     content:"";
-  background-image: url("/svg/003-tumblr.svg");
+  background-image: url("../svg/003-tumblr.svg");
     height:20px; 
     background-size:contain;
     background-repeat:no-repeat;
@@ -681,7 +681,7 @@ margin-left:35px;
     }
   
     header {
-      background-image: url("/images/banner-bg-tablet.jpg");
+      background-image: url("../images/banner-bg-tablet.jpg");
       padding-bottom: 126px;
       background-position: center center;
       background-repeat: no-repeat;
@@ -738,7 +738,7 @@ margin-left:35px;
   }
   
     .menu__button {
- background-image: url("/megaburger.jpg");
+ background-image: url("../megaburger.jpg");
  background-repeat: no-repeat;
  width: 20px;
   }
@@ -810,19 +810,19 @@ margin-left:35px;
   }
   
   .item_1 {
-      background-image: url("/images/trend1.jpg");
+      background-image: url("../images/trend1.jpg");
   }
   
   .item_2 {
-      background-image: url("/images/trend2.jpg");
+      background-image: url("../images/trend2.jpg");
   }
   
   .item_3 {
-      background-image: url("/images/trend3.jpg");
+      background-image: url("../images/trend3.jpg");
   }
   
   .item_4 {
-      background-image: url("/images/trend4.jpg");
+      background-image: url("../images/trend4.jpg");
   }
   
   
@@ -1057,7 +1057,7 @@ margin-left:35px;
       height: 47px;
       width: 48px;
       background-color: #b59f5b;
-      background-image: url("/svg/search.svg");
+      background-image: url("../svg/search.svg");
       background-size: 18px 18px;
       background-repeat: no-repeat;
       background-position: right 15px top 15px; 
@@ -1205,7 +1205,7 @@ margin-left:35px;
     
     .twitter {
       content:"";
-      background-image: url("/svg/004-twitter.svg");
+      background-image: url("../svg/004-twitter.svg");
       height:20px;
       background-size:contain;
       background-repeat:no-repeat;
@@ -1215,7 +1215,7 @@ margin-left:35px;
     
     .pinterest {
       content:"";
-    background-image: url("/svg/001-pinterest.svg");
+    background-image: url("../svg/001-pinterest.svg");
       height:20px;
       background-size:contain;
       background-repeat:no-repeat;
@@ -1225,7 +1225,7 @@ margin-left:35px;
     
     .facebook {
       content:"";
-    background-image: url("/svg/002-facebook-logo.svg");
+    background-image: url("../svg/002-facebook-logo.svg");
       height:20px;
       background-size:contain;
       background-repeat:no-repeat;
@@ -1235,7 +1235,7 @@ margin-left:35px;
     
     .instagram {
       content:"";
-    background-image: url("/svg/005-instagram.svg");
+    background-image: url("../svg/005-instagram.svg");
       height:20px;
       background-size:contain;
       background-repeat:no-repeat;
@@ -1245,7 +1245,7 @@ margin-left:35px;
 
     .tumblr {
       content:"";
-    background-image: url("/svg/003-tumblr.svg");
+    background-image: url("../svg/003-tumblr.svg");
       height:20px; 
       background-size:contain;
       background-repeat:no-repeat;
@@ -1277,7 +1277,7 @@ margin-left:35px;
     }
   
     header {
-      background-image: url("/images/banner-mobile.jpg");
+      background-image: url("../images/banner-mobile.jpg");
       padding-bottom: 217px;
       background-position: center center;
       background-repeat: no-repeat;
@@ -1330,7 +1330,7 @@ margin-left:35px;
   }
   
     .menu__button {
- background-image: url("/megaburger.jpg");
+ background-image: url("../megaburger.jpg");
  background-repeat: no-repeat;
  width: 20px;
   }
@@ -1398,19 +1398,19 @@ margin-left:35px;
   }
   
   .item_1 {
-      background-image: url("/images/trend1.jpg");
+      background-image: url("../images/trend1.jpg");
   }
   
   .item_2 {
-      background-image: url("/images/trend2.jpg");
+      background-image: url("../images/trend2.jpg");
   }
   
   .item_3 {
-      background-image: url("/images/trend3.jpg");
+      background-image: url("../images/trend3.jpg");
   }
   
   .item_4 {
-      background-image: url("/images/trend4.jpg");
+      background-image: url("../images/trend4.jpg");
   }
   
   
@@ -1608,7 +1608,7 @@ margin-left:35px;
     height: 47px;
     width: 47px;
     background-color: #b59f5b;
-    background-image: url("/svg/search.svg");
+    background-image: url("../svg/search.svg");
     background-size: 50% 50%;
     background-repeat: no-repeat;
     background-position: center center; 
@@ -1797,7 +1797,7 @@ margin-left:35px;
     
     .twitter {
       content:"";
-      background-image: url("/svg/004-twitter.svg");
+      background-image: url("../svg/004-twitter.svg");
       height:20px;
       background-size:contain;
       background-repeat:no-repeat;
@@ -1807,7 +1807,7 @@ margin-left:35px;
     
     .pinterest {
       content:"";
-    background-image: url("/svg/001-pinterest.svg");
+    background-image: url("../svg/001-pinterest.svg");
       height:20px;
       background-size:contain;
       background-repeat:no-repeat;
@@ -1817,7 +1817,7 @@ margin-left:35px;
     
     .facebook {
       content:"";
-    background-image: url("/svg/002-facebook-logo.svg");
+    background-image: url("../svg/002-facebook-logo.svg");
       height:20px;
       background-size:contain;
       background-repeat:no-repeat;
@@ -1827,7 +1827,7 @@ margin-left:35px;
     
     .instagram {
       content:"";
-    background-image: url("/svg/005-instagram.svg");
+    background-image: url("../svg/005-instagram.svg");
       height:20px;
       background-size:contain;
       background-repeat:no-repeat;
@@ -1837,7 +1837,7 @@ margin-left:35px;
 
     .tumblr {
       content:"";
-    background-image: url("/svg/003-tumblr.svg");
+    background-image: url("../svg/003-tumblr.svg");
       height:20px; 
       background-size:contain;
       background-repeat:no-repeat;
