@@ -44,6 +44,14 @@
     z-index: 5;
   }
 
+  .popup_x {
+    width: 20px;
+    height: 20px;
+    fill: white;
+    position: relative;
+    bottom: 30px;
+    left:320px;
+  }
   
   .popup_items {
     width: 94%;
